@@ -96,30 +96,6 @@
         "dimension": 31.253333333333334,
         "children": [
           {
-            "id": "b13eb93528799c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/线性数据结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09e0bf495de31e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/搜索结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "69b2180daa8444c9",
             "type": "leaf",
             "state": {
@@ -154,8 +130,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffe4d1d16f86f260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数据结构/笔记/搜索结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,12 +198,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -315,10 +304,13 @@
   },
   "active": "39ab4b330ea2cd7d",
   "lastOpenFiles": [
-    "课程/数据结构/笔记/线性数据结构.md",
+    "课程/数据结构/笔记/图.md",
     "课程/数据结构/数据结构.md",
-    "课程/数据结构/课件/数组、串、广义表.pdf",
+    "课程/数据结构/笔记/搜索结构.md",
+    "课程/数据结构/笔记/排序.md",
     "课程/数据结构/课件/树.pdf",
+    "课程/数据结构/课件/数组、串、广义表.pdf",
+    "课程/数据结构/笔记/线性数据结构.md",
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/课件/栈和队列.pdf",
     "课程/数据结构/课件/线性表.pdf",
@@ -329,9 +321,6 @@
     "课程/数据结构/课件/文件.pdf",
     "课程/数据结构/课件/图.pdf",
     "课程/数据结构/课件/搜索结构.pdf",
-    "课程/数据结构/笔记/排序.md",
-    "课程/数据结构/笔记/图.md",
-    "课程/数据结构/笔记/搜索结构.md",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
     "课程/大数据/作业/p10.md",
