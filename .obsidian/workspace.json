@@ -125,6 +125,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "课程/数据结构/笔记/树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "246a755aef1293ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "课程/数据结构/笔记/图.md",
                 "mode": "source",
                 "source": false
@@ -198,12 +210,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/笔记/图.md",
+                "file": "课程/数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/笔记/图.md",
+                "file": "课程/数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/笔记/图.md"
+                "file": "课程/数据结构/数据结构.md"
               }
             }
           },
@@ -302,11 +314,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cea572ad07bc0e6a",
+  "active": "39ab4b330ea2cd7d",
   "lastOpenFiles": [
+    "课程/数据结构/笔记/树.md",
     "课程/数据结构/数据结构.md",
-    "课程/数据结构/笔记/图.md",
     "课程/数据结构/课件/树.pdf",
+    "课程/数据结构/课件/集合与字典.pdf",
+    "课程/数据结构/课件/搜索结构.pdf",
+    "课程/数据结构/笔记/图.md",
     "课程/数据结构/笔记/搜索结构.md",
     "课程/数据结构/笔记/排序.md",
     "课程/数据结构/课件/数组、串、广义表.pdf",
@@ -314,13 +329,11 @@
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/课件/栈和队列.pdf",
     "课程/数据结构/课件/线性表.pdf",
-    "课程/数据结构/课件/集合与字典.pdf",
     "课程/数据结构/课件/概述.pdf",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
     "课程/数据结构/课件/文件.pdf",
     "课程/数据结构/课件/图.pdf",
-    "课程/数据结构/课件/搜索结构.pdf",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
     "课程/大数据/作业/p10.md",
@@ -338,7 +351,6 @@
     "课程/大数据/笔记/云计算.md",
     "课程/大数据/笔记/Hadoop.md",
     "课程/大数据/实验/p2.md",
-    "课程/大数据/作业/p5.md",
     "Pasted image 20231227111944.png",
     "未命名.canvas",
     "export/金融大数据p4/plugin/chalkboard/img/whiteboard.png",
