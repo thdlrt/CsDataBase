@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "期末复习",
+      "path": "课程/公司金融学/期末复习.md"
+    },
+    {
+      "basename": "公司金融学",
+      "path": "临时/公司金融学.md"
+    },
+    {
       "basename": "文件系统",
       "path": "课程/数据结构/笔记/文件系统.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "数字逻辑与计算机组成",
       "path": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md"
-    },
-    {
-      "basename": "期末复习",
-      "path": "课程/公司金融学/期末复习.md"
     },
     {
       "basename": "复习题2023",
@@ -195,10 +199,6 @@
     {
       "basename": "10 MapReduce数据挖掘基础算法 (I)",
       "path": "课程/大数据/课件/10 MapReduce数据挖掘基础算法 (I).pdf"
-    },
-    {
-      "basename": "08 MapReduce Advanced Programming",
-      "path": "课程/大数据/课件/08 MapReduce Advanced Programming.pdf"
     }
   ],
   "omittedPaths": [],

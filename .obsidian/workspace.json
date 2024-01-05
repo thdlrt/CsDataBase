@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2bd0defe62b715",
+        "id": "ee179079f78b9af5",
         "type": "tabs",
-        "dimension": 47.920133111480865,
         "children": [
           {
-            "id": "e9367f9cdfb4976b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/数据结构/课件/文件.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4d62fa843cedb852",
-        "type": "tabs",
-        "dimension": 52.079866888519135,
-        "children": [
-          {
-            "id": "3df87da8a31deb1f",
+            "id": "e189e497dc76a038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/数据结构/笔记/文件系统.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,13 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -113,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/笔记/文件系统.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/笔记/文件系统.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/笔记/文件系统.md"
+                "file": "课程/公司金融学/期末复习.md"
               }
             }
           },
@@ -178,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +176,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3df87da8a31deb1f",
+  "active": "e189e497dc76a038",
   "lastOpenFiles": [
-    "课程/数据结构/课件/文件.pdf",
+    "临时/公司金融学.md",
     "课程/数据结构/笔记/文件系统.md",
+    "课程/数据结构/课件/文件.pdf",
     "课程/数据结构/笔记/排序.md",
     "课程/数据结构/课件/排序.pdf",
     "课程/数据结构/笔记/图.md",
