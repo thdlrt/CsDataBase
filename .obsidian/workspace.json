@@ -44,7 +44,7 @@
       {
         "id": "3eddd488f304e6a2",
         "type": "tabs",
-        "dimension": 21.641791044776117,
+        "dimension": 35.927505330490405,
         "children": [
           {
             "id": "39ab4b330ea2cd7d",
@@ -63,7 +63,7 @@
       {
         "id": "4d62fa843cedb852",
         "type": "tabs",
-        "dimension": 47.6545842217484,
+        "dimension": 33.368869936034116,
         "children": [
           {
             "id": "69b2180daa8444c9",
@@ -100,21 +100,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ffe4d1d16f86f260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/搜索结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/笔记/搜索结构.md",
+                "file": "课程/数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/笔记/搜索结构.md",
+                "file": "课程/数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/笔记/搜索结构.md"
+                "file": "课程/数据结构/数据结构.md"
               }
             }
           },
@@ -272,10 +260,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ffe4d1d16f86f260",
+  "active": "39ab4b330ea2cd7d",
   "lastOpenFiles": [
-    "课程/数据结构/课件/图.pdf",
+    "课程/数据结构/笔记/图.md",
     "课程/数据结构/笔记/搜索结构.md",
+    "课程/数据结构/课件/图.pdf",
     "课程/数据结构/课件/搜索结构.pdf",
     "课程/数据结构/数据结构.md",
     "课程/数据结构/课件/文件.pdf",
@@ -285,7 +274,6 @@
     "算法/图论.md",
     "课程/数据结构/笔记/树.md",
     "课程/数据结构/课件/树.pdf",
-    "课程/数据结构/笔记/图.md",
     "课程/数据结构/笔记/排序.md",
     "课程/数据结构/课件/数组、串、广义表.pdf",
     "课程/数据结构/笔记/线性数据结构.md",
