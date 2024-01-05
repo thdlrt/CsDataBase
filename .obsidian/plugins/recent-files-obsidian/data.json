@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "数据结构",
-      "path": "课程/数据结构/数据结构.md"
+      "basename": "排序",
+      "path": "课程/数据结构/笔记/排序.md"
+    },
+    {
+      "basename": "文件系统",
+      "path": "课程/数据结构/笔记/文件系统.md"
     },
     {
       "basename": "图",
       "path": "课程/数据结构/笔记/图.md"
+    },
+    {
+      "basename": "图论",
+      "path": "算法/图论.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "课程/数据结构/数据结构.md"
     },
     {
       "basename": "图",
@@ -33,24 +45,12 @@
       "path": "课程/数据结构/课件/集合与字典.pdf"
     },
     {
-      "basename": "文件系统",
-      "path": "课程/数据结构/笔记/文件系统.md"
-    },
-    {
-      "basename": "图论",
-      "path": "算法/图论.md"
-    },
-    {
       "basename": "树",
       "path": "课程/数据结构/笔记/树.md"
     },
     {
       "basename": "树",
       "path": "课程/数据结构/课件/树.pdf"
-    },
-    {
-      "basename": "排序",
-      "path": "课程/数据结构/笔记/排序.md"
     },
     {
       "basename": "数组、串、广义表",
