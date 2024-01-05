@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
+                "file": "课程/公司金融学/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
+                "file": "课程/公司金融学/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf"
+                "file": "课程/公司金融学/期末复习.md"
               }
             }
           },
@@ -272,8 +272,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "58a8952ff13c7fe9",
+  "active": "e189e497dc76a038",
   "lastOpenFiles": [
+    "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
     "课程/公司金融学/课件/公司金融_绪论2023.pdf",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第九章 估值.pdf",
@@ -284,7 +285,6 @@
     "课程/公司金融学/课件/财务基础.pdf",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/第三章下：风险价值的度量.pdf",
-    "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
     "临时/公司金融学.md",
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/笔记/排序.md",
