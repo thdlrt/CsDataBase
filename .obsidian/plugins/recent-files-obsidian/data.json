@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "第二章上：货币时间价值与财务计算",
+      "path": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf"
+    },
+    {
+      "basename": "公司金融_绪论2023",
+      "path": "课程/公司金融学/课件/公司金融_绪论2023.pdf"
+    },
+    {
       "basename": "期末复习",
       "path": "课程/公司金融学/期末复习.md"
+    },
+    {
+      "basename": "第九章 估值",
+      "path": "课程/公司金融学/课件/第九章 估值.pdf"
+    },
+    {
+      "basename": "第八章公司并购重组与价值评估",
+      "path": "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf"
+    },
+    {
+      "basename": "7融资决策",
+      "path": "课程/公司金融学/课件/7融资决策.pdf"
+    },
+    {
+      "basename": "6投资决策",
+      "path": "课程/公司金融学/课件/6投资决策.pdf"
+    },
+    {
+      "basename": "财务分析",
+      "path": "课程/公司金融学/课件/财务分析.pdf"
+    },
+    {
+      "basename": "财务基础",
+      "path": "课程/公司金融学/课件/财务基础.pdf"
+    },
+    {
+      "basename": "第四章公司金融日常管理",
+      "path": "课程/公司金融学/课件/第四章公司金融日常管理.pdf"
+    },
+    {
+      "basename": "第三章下：风险价值的度量",
+      "path": "课程/公司金融学/课件/第三章下：风险价值的度量.pdf"
     },
     {
       "basename": "公司金融学",
@@ -159,46 +199,6 @@
     {
       "basename": "NoSQL",
       "path": "课程/大数据/笔记/NoSQL.md"
-    },
-    {
-      "basename": "p6",
-      "path": "课程/大数据/作业/p6.md"
-    },
-    {
-      "basename": "13 NoSQL数据库",
-      "path": "课程/大数据/课件/13 NoSQL数据库.pdf"
-    },
-    {
-      "basename": "云计算",
-      "path": "课程/大数据/笔记/云计算.md"
-    },
-    {
-      "basename": "21 Cloud Computing",
-      "path": "课程/大数据/课件/21 Cloud Computing.pdf"
-    },
-    {
-      "basename": "Hadoop",
-      "path": "课程/大数据/笔记/Hadoop.md"
-    },
-    {
-      "basename": "p2",
-      "path": "课程/大数据/实验/p2.md"
-    },
-    {
-      "basename": "12 MapReduce数据挖掘基础算法 (III)",
-      "path": "课程/大数据/课件/12 MapReduce数据挖掘基础算法 (III).pdf"
-    },
-    {
-      "basename": "p5",
-      "path": "课程/大数据/作业/p5.md"
-    },
-    {
-      "basename": "11 MapReduce数据挖掘基础算法 (II)",
-      "path": "课程/大数据/课件/11 MapReduce数据挖掘基础算法 (II).pdf"
-    },
-    {
-      "basename": "10 MapReduce数据挖掘基础算法 (I)",
-      "path": "课程/大数据/课件/10 MapReduce数据挖掘基础算法 (I).pdf"
     }
   ],
   "omittedPaths": [],

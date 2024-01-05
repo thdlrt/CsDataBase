@@ -4,6 +4,102 @@
     "type": "split",
     "children": [
       {
+        "id": "6fdecc2cb12b83c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a8952ff13c7fe9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf"
+              }
+            }
+          },
+          {
+            "id": "60409a1f34eb03ca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/第三章下：风险价值的度量.pdf"
+              }
+            }
+          },
+          {
+            "id": "7fb497991e0e1c7d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf"
+              }
+            }
+          },
+          {
+            "id": "08f34dea56af675a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/财务基础.pdf"
+              }
+            }
+          },
+          {
+            "id": "15fe7091b9e80b19",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/财务分析.pdf"
+              }
+            }
+          },
+          {
+            "id": "c49424e48e9c9926",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/6投资决策.pdf"
+              }
+            }
+          },
+          {
+            "id": "531d07a65f320a64",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/7融资决策.pdf"
+              }
+            }
+          },
+          {
+            "id": "5637ad6211c82000",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf"
+              }
+            }
+          },
+          {
+            "id": "f28607f31f970c04",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/第九章 估值.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "ee179079f78b9af5",
         "type": "tabs",
         "children": [
@@ -77,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -93,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/期末复习.md"
+                "file": "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf"
               }
             }
           },
@@ -175,29 +272,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e189e497dc76a038",
+  "active": "58a8952ff13c7fe9",
   "lastOpenFiles": [
+    "课程/公司金融学/课件/公司金融_绪论2023.pdf",
+    "课程/公司金融学/期末复习.md",
+    "课程/公司金融学/课件/第九章 估值.pdf",
+    "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
+    "课程/公司金融学/课件/7融资决策.pdf",
+    "课程/公司金融学/课件/6投资决策.pdf",
+    "课程/公司金融学/课件/财务分析.pdf",
+    "课程/公司金融学/课件/财务基础.pdf",
+    "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
+    "课程/公司金融学/课件/第三章下：风险价值的度量.pdf",
+    "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
     "临时/公司金融学.md",
     "课程/数据结构/笔记/文件系统.md",
-    "课程/数据结构/课件/文件.pdf",
     "课程/数据结构/笔记/排序.md",
-    "课程/数据结构/课件/排序.pdf",
     "课程/数据结构/笔记/图.md",
     "算法/图论.md",
     "课程/数据结构/数据结构.md",
-    "课程/数据结构/课件/图.pdf",
     "课程/数据结构/笔记/搜索结构.md",
-    "课程/数据结构/课件/搜索结构.pdf",
-    "课程/数据结构/课件/集合与字典.pdf",
     "课程/数据结构/笔记/树.md",
-    "课程/数据结构/课件/树.pdf",
-    "课程/数据结构/课件/数组、串、广义表.pdf",
     "课程/数据结构/笔记/线性数据结构.md",
-    "课程/数据结构/课件/栈和队列.pdf",
-    "课程/数据结构/课件/线性表.pdf",
-    "课程/数据结构/课件/概述.pdf",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
-    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
     "课程/大数据/作业/p10.md",
     "课程/大数据/笔记/Spark.md",
@@ -212,7 +309,6 @@
     "课程/大数据/笔记/NoSQL.md",
     "课程/大数据/作业/p6.md",
     "课程/大数据/笔记/云计算.md",
-    "课程/大数据/笔记/Hadoop.md",
     "Pasted image 20231227111944.png",
     "未命名.canvas",
     "export/金融大数据p4/plugin/chalkboard/img/whiteboard.png",
