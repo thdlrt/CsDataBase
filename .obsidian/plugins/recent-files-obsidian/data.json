@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "搜索结构",
-      "path": "课程/数据结构/笔记/搜索结构.md"
-    },
-    {
       "basename": "数据结构",
       "path": "课程/数据结构/数据结构.md"
     },
     {
-      "basename": "图论",
-      "path": "算法/图论.md"
-    },
-    {
-      "basename": "集合与字典",
-      "path": "课程/数据结构/课件/集合与字典.pdf"
+      "basename": "搜索结构",
+      "path": "课程/数据结构/笔记/搜索结构.md"
     },
     {
       "basename": "搜索结构",
       "path": "课程/数据结构/课件/搜索结构.pdf"
     },
     {
+      "basename": "文件",
+      "path": "课程/数据结构/课件/文件.pdf"
+    },
+    {
+      "basename": "排序",
+      "path": "课程/数据结构/课件/排序.pdf"
+    },
+    {
       "basename": "图",
       "path": "课程/数据结构/课件/图.pdf"
     },
     {
+      "basename": "集合与字典",
+      "path": "课程/数据结构/课件/集合与字典.pdf"
+    },
+    {
       "basename": "文件系统",
       "path": "课程/数据结构/笔记/文件系统.md"
+    },
+    {
+      "basename": "图论",
+      "path": "算法/图论.md"
     },
     {
       "basename": "树",
@@ -67,14 +75,6 @@
     {
       "basename": "数字逻辑与计算机组成",
       "path": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md"
-    },
-    {
-      "basename": "文件",
-      "path": "课程/数据结构/课件/文件.pdf"
-    },
-    {
-      "basename": "排序",
-      "path": "课程/数据结构/课件/排序.pdf"
     },
     {
       "basename": "期末复习",
