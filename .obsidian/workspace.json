@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/课件/集合与字典.pdf",
+                "file": "课程/数据结构/笔记/搜索结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/课件/集合与字典.pdf",
+                "file": "课程/数据结构/笔记/搜索结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/课件/集合与字典.pdf"
+                "file": "课程/数据结构/笔记/搜索结构.md"
               }
             }
           },
@@ -291,13 +291,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "25cef6d9b6f46724",
+  "active": "ffe4d1d16f86f260",
   "lastOpenFiles": [
-    "课程/数据结构/课件/搜索结构.pdf",
     "课程/数据结构/课件/集合与字典.pdf",
-    "课程/数据结构/课件/图.pdf",
     "课程/数据结构/数据结构.md",
     "课程/数据结构/笔记/搜索结构.md",
+    "课程/数据结构/课件/搜索结构.pdf",
+    "课程/数据结构/课件/图.pdf",
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/笔记/树.md",
     "课程/数据结构/课件/树.pdf",
