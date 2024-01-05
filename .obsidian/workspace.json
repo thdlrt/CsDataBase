@@ -9,16 +9,6 @@
         "dimension": 47.920133111480865,
         "children": [
           {
-            "id": "d498190ff33cbcb8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/数据结构/课件/排序.pdf"
-              }
-            }
-          },
-          {
             "id": "e9367f9cdfb4976b",
             "type": "leaf",
             "state": {
@@ -35,18 +25,6 @@
         "type": "tabs",
         "dimension": 52.079866888519135,
         "children": [
-          {
-            "id": "69b2180daa8444c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/排序.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "3df87da8a31deb1f",
             "type": "leaf",
@@ -135,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/笔记/排序.md",
+                "file": "课程/数据结构/笔记/文件系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/笔记/排序.md",
+                "file": "课程/数据结构/笔记/文件系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/笔记/排序.md"
+                "file": "课程/数据结构/笔记/文件系统.md"
               }
             }
           },
@@ -200,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +195,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "69b2180daa8444c9",
+  "active": "3df87da8a31deb1f",
   "lastOpenFiles": [
-    "课程/数据结构/课件/排序.pdf",
     "课程/数据结构/笔记/排序.md",
+    "课程/数据结构/课件/排序.pdf",
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/笔记/图.md",
     "算法/图论.md",
