@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/笔记/图.md",
+                "file": "课程/数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/笔记/图.md",
+                "file": "课程/数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/笔记/图.md"
+                "file": "课程/数据结构/数据结构.md"
               }
             }
           },
@@ -260,10 +260,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "246a755aef1293ca",
+  "active": "39ab4b330ea2cd7d",
   "lastOpenFiles": [
-    "课程/数据结构/课件/图.pdf",
     "课程/数据结构/笔记/图.md",
+    "课程/数据结构/课件/图.pdf",
     "课程/数据结构/数据结构.md",
     "课程/数据结构/笔记/搜索结构.md",
     "课程/数据结构/课件/搜索结构.pdf",
