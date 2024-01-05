@@ -5,12 +5,16 @@
       "path": "课程/数据结构/笔记/搜索结构.md"
     },
     {
-      "basename": "集合与字典",
-      "path": "课程/数据结构/课件/集合与字典.pdf"
-    },
-    {
       "basename": "数据结构",
       "path": "课程/数据结构/数据结构.md"
+    },
+    {
+      "basename": "图论",
+      "path": "算法/图论.md"
+    },
+    {
+      "basename": "集合与字典",
+      "path": "课程/数据结构/课件/集合与字典.pdf"
     },
     {
       "basename": "搜索结构",
@@ -195,10 +199,6 @@
     {
       "basename": "08 MapReduce Advanced Programming",
       "path": "课程/大数据/课件/08 MapReduce Advanced Programming.pdf"
-    },
-    {
-      "basename": "09 基于MapReduce的搜索引擎算法",
-      "path": "课程/大数据/课件/09 基于MapReduce的搜索引擎算法.pdf"
     }
   ],
   "omittedPaths": [],
