@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/课件/财务基础.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/课件/财务基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/期末复习.md"
+                "file": "课程/公司金融学/课件/财务基础.pdf"
               }
             }
           },
@@ -242,11 +242,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d88d494d43d0e008",
+  "active": "08f34dea56af675a",
   "lastOpenFiles": [
+    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/财务基础.pdf",
     "课程/公司金融学/课件/财务分析.pdf",
-    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/第九章 估值.pdf",
     "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
