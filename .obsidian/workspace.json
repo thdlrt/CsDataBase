@@ -44,21 +44,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4410cc65330f1651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/公司金融学/复习题2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md"
+                "file": "课程/公司金融学/期末复习.md"
               }
             }
           },
@@ -214,17 +201,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4410cc65330f1651",
+  "active": "d88d494d43d0e008",
   "lastOpenFiles": [
+    "课程/公司金融学/课件/7融资决策.pdf",
     "课程/公司金融学/期末复习.md",
+    "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
+    "课程/公司金融学/课件/第九章 估值.pdf",
     "课程/公司金融学/复习题2023.md",
     "临时/公司金融学.md",
     "临时/temp.md",
     "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
     "课程/公司金融学/课件/6投资决策.pdf",
-    "课程/公司金融学/课件/第九章 估值.pdf",
-    "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
-    "课程/公司金融学/课件/7融资决策.pdf",
     "课程/公司金融学/课件/财务分析.pdf",
     "课程/公司金融学/课件/财务基础.pdf",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
@@ -251,7 +238,6 @@
     "课程/大数据/作业/p7.md",
     "课程/大数据/笔记/NoSQL.md",
     "课程/大数据/作业/p6.md",
-    "课程/大数据/笔记/云计算.md",
     "Pasted image 20231227111944.png",
     "未命名.canvas",
     "export/金融大数据p4/plugin/chalkboard/img/whiteboard.png",
