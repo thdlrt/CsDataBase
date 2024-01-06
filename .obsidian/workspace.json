@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "5a08f1d81c4f4b47",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf"
-              }
-            }
-          },
-          {
             "id": "140dda2ffa513499",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "02c5825223831c60",
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
+                "file": "课程/公司金融学/复习题2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
+                "file": "课程/公司金融学/复习题2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf"
+                "file": "课程/公司金融学/复习题2023.md"
               }
             }
           },
@@ -216,10 +205,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5a08f1d81c4f4b47",
+  "active": "5ae3f0693757a527",
   "lastOpenFiles": [
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
+    "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/财务基础.pdf",
     "课程/公司金融学/课件/第九章 估值.pdf",
     "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
@@ -229,7 +219,6 @@
     "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
     "课程/公司金融学/课件/6投资决策.pdf",
     "课程/公司金融学/课件/财务分析.pdf",
-    "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/第三章下：风险价值的度量.pdf",
     "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
     "课程/数据结构/笔记/文件系统.md",
