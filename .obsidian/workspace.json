@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5a08f1d81c4f4b47",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf"
+              }
+            }
+          },
+          {
             "id": "140dda2ffa513499",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "02c5825223831c60",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md"
+                "file": "课程/公司金融学/课件/第四章公司金融日常管理.pdf"
               }
             }
           },
@@ -205,7 +216,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5ae3f0693757a527",
+  "active": "5a08f1d81c4f4b47",
   "lastOpenFiles": [
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
