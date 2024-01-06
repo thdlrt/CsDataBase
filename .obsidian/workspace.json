@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/课件/第九章 估值.pdf",
+                "file": "课程/公司金融学/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/课件/第九章 估值.pdf",
+                "file": "课程/公司金融学/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/课件/第九章 估值.pdf"
+                "file": "课程/公司金融学/期末复习.md"
               }
             }
           },
@@ -191,10 +191,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f28607f31f970c04",
+  "active": "d88d494d43d0e008",
   "lastOpenFiles": [
-    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第九章 估值.pdf",
+    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
     "课程/公司金融学/课件/7融资决策.pdf",
     "课程/公司金融学/复习题2023.md",
