@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e3b1debf077f121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/数据结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98b4ed154ed1f24f",
             "type": "leaf",
             "state": {
@@ -32,60 +20,12 @@
             }
           },
           {
-            "id": "f02db0341a3a6f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/排序.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "495b3085de86f257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/数据结构/笔记/图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88f18ab1e6e61edd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "课程/数据结构/笔记/搜索结构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54aeab65f4748dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/树.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73dfbf2b3f5f80cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/线性数据结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#难点",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/数据结构.md",
+                "file": "课程/数据结构/笔记/搜索结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/数据结构.md",
+                "file": "课程/数据结构/笔记/搜索结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/数据结构.md"
+                "file": "课程/数据结构/笔记/搜索结构.md"
               }
             }
           },
@@ -257,16 +199,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4e3b1debf077f121",
+  "active": "495b3085de86f257",
   "lastOpenFiles": [
-    "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
-    "课程/数据结构/数据结构.md",
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/笔记/排序.md",
-    "课程/数据结构/笔记/图.md",
     "课程/数据结构/笔记/搜索结构.md",
+    "课程/数据结构/笔记/图.md",
     "课程/数据结构/笔记/树.md",
     "课程/数据结构/笔记/线性数据结构.md",
+    "课程/数据结构/数据结构.md",
+    "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
     "课程/公司金融学/复习题2023.md",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
