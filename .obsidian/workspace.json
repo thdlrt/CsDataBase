@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08f34dea56af675a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/公司金融学/课件/财务基础.pdf"
-              }
-            }
-          },
-          {
             "id": "15fe7091b9e80b19",
             "type": "leaf",
             "state": {
@@ -160,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/课件/财务基础.pdf",
+                "file": "课程/公司金融学/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/课件/财务基础.pdf",
+                "file": "课程/公司金融学/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/课件/财务基础.pdf"
+                "file": "课程/公司金融学/期末复习.md"
               }
             }
           },
@@ -242,10 +232,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "08f34dea56af675a",
+  "active": "d88d494d43d0e008",
   "lastOpenFiles": [
-    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/财务基础.pdf",
+    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/财务分析.pdf",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/第九章 估值.pdf",
