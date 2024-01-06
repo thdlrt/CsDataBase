@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98b4ed154ed1f24f",
+            "id": "81ed0e4cfffb8b91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
+              }
+            }
+          },
+          {
+            "id": "94240308dc9c29cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,9 +28,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3fcb0f71570a0968",
+        "type": "tabs",
+        "children": [
           {
-            "id": "81ed0e4cfffb8b91",
+            "id": "6ec0353e2085c8bd",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -29,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +206,7 @@
   "lastOpenFiles": [
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
+    "课程/数据结构/课件/数组、串、广义表.pdf",
     "课程/数据结构/笔记/搜索结构.md",
     "课程/数据结构/笔记/排序.md",
     "课程/数据结构/笔记/图.md",
@@ -209,7 +225,6 @@
     "课程/公司金融学/课件/6投资决策.pdf",
     "课程/公司金融学/课件/财务分析.pdf",
     "课程/公司金融学/课件/第三章下：风险价值的度量.pdf",
-    "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
     "算法/图论.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/大数据/作业/p10.md",
