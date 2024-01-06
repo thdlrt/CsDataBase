@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "531d07a65f320a64",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/公司金融学/课件/7融资决策.pdf"
-              }
-            }
-          },
-          {
             "id": "5637ad6211c82000",
             "type": "leaf",
             "state": {
@@ -54,8 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4410cc65330f1651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/公司金融学/复习题2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/复习题2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/复习题2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/期末复习.md"
+                "file": "课程/公司金融学/复习题2023.md"
               }
             }
           },
@@ -212,10 +214,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d88d494d43d0e008",
+  "active": "4410cc65330f1651",
   "lastOpenFiles": [
-    "课程/公司金融学/课件/6投资决策.pdf",
     "课程/公司金融学/期末复习.md",
+    "课程/公司金融学/复习题2023.md",
+    "临时/公司金融学.md",
+    "临时/temp.md",
+    "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
+    "课程/公司金融学/课件/6投资决策.pdf",
     "课程/公司金融学/课件/第九章 估值.pdf",
     "课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
     "课程/公司金融学/课件/7融资决策.pdf",
@@ -224,8 +230,6 @@
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/第三章下：风险价值的度量.pdf",
     "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
-    "课程/公司金融学/课件/公司金融_绪论2023.pdf",
-    "临时/公司金融学.md",
     "课程/数据结构/笔记/文件系统.md",
     "课程/数据结构/笔记/排序.md",
     "课程/数据结构/笔记/图.md",
@@ -235,7 +239,6 @@
     "课程/数据结构/笔记/树.md",
     "课程/数据结构/笔记/线性数据结构.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
-    "课程/公司金融学/复习题2023.md",
     "课程/大数据/作业/p10.md",
     "课程/大数据/笔记/Spark.md",
     "课程/大数据/期末复习.md",

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "复习题2023",
+      "path": "课程/公司金融学/复习题2023.md"
+    },
+    {
       "basename": "期末复习",
       "path": "课程/公司金融学/期末复习.md"
+    },
+    {
+      "basename": "公司金融学",
+      "path": "临时/公司金融学.md"
+    },
+    {
+      "basename": "temp",
+      "path": "临时/temp.md"
+    },
+    {
+      "basename": "南京大学《数据结构》试卷(含答案)",
+      "path": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
     },
     {
       "basename": "6投资决策",
@@ -43,10 +59,6 @@
     {
       "basename": "公司金融_绪论2023",
       "path": "课程/公司金融学/课件/公司金融_绪论2023.pdf"
-    },
-    {
-      "basename": "公司金融学",
-      "path": "临时/公司金融学.md"
     },
     {
       "basename": "文件系统",
@@ -125,10 +137,6 @@
       "path": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md"
     },
     {
-      "basename": "复习题2023",
-      "path": "课程/公司金融学/复习题2023.md"
-    },
-    {
       "basename": "p10",
       "path": "课程/大数据/作业/p10.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "14 HBase基本原理与程序设计",
       "path": "课程/大数据/课件/14 HBase基本原理与程序设计.pdf"
-    },
-    {
-      "basename": "p7",
-      "path": "课程/大数据/作业/p7.md"
-    },
-    {
-      "basename": "NoSQL",
-      "path": "课程/大数据/笔记/NoSQL.md"
     }
   ],
   "omittedPaths": [],
