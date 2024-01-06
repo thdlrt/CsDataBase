@@ -4,48 +4,100 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdecc2cb12b83c6",
+        "id": "0a1dd3fdb175d941",
         "type": "tabs",
         "children": [
           {
-            "id": "d88d494d43d0e008",
+            "id": "4e3b1debf077f121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/数据结构/数据结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "140dda2ffa513499",
+            "id": "98b4ed154ed1f24f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/数据结构/笔记/文件系统.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "02c5825223831c60",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5ae3f0693757a527",
+            "id": "f02db0341a3a6f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/数据结构/笔记/排序.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "495b3085de86f257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数据结构/笔记/图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88f18ab1e6e61edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数据结构/笔记/搜索结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54aeab65f4748dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数据结构/笔记/树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73dfbf2b3f5f80cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数据结构/笔记/线性数据结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81ed0e4cfffb8b91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
               }
             }
           }
@@ -123,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md",
+                "file": "课程/数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/复习题2023.md"
+                "file": "课程/数据结构/数据结构.md"
               }
             }
           },
@@ -205,10 +257,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5ae3f0693757a527",
+  "active": "4e3b1debf077f121",
   "lastOpenFiles": [
-    "课程/公司金融学/期末复习.md",
+    "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
+    "课程/数据结构/数据结构.md",
+    "课程/数据结构/笔记/文件系统.md",
+    "课程/数据结构/笔记/排序.md",
+    "课程/数据结构/笔记/图.md",
+    "课程/数据结构/笔记/搜索结构.md",
+    "课程/数据结构/笔记/树.md",
+    "课程/数据结构/笔记/线性数据结构.md",
     "课程/公司金融学/复习题2023.md",
+    "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "课程/公司金融学/课件/财务基础.pdf",
     "课程/公司金融学/课件/第九章 估值.pdf",
@@ -216,19 +276,11 @@
     "课程/公司金融学/课件/7融资决策.pdf",
     "临时/公司金融学.md",
     "临时/temp.md",
-    "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
     "课程/公司金融学/课件/6投资决策.pdf",
     "课程/公司金融学/课件/财务分析.pdf",
     "课程/公司金融学/课件/第三章下：风险价值的度量.pdf",
     "课程/公司金融学/课件/第二章上：货币时间价值与财务计算.pdf",
-    "课程/数据结构/笔记/文件系统.md",
-    "课程/数据结构/笔记/排序.md",
-    "课程/数据结构/笔记/图.md",
     "算法/图论.md",
-    "课程/数据结构/数据结构.md",
-    "课程/数据结构/笔记/搜索结构.md",
-    "课程/数据结构/笔记/树.md",
-    "课程/数据结构/笔记/线性数据结构.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/大数据/作业/p10.md",
     "课程/大数据/笔记/Spark.md",
