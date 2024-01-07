@@ -4,34 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0a1dd3fdb175d941",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81ed0e4cfffb8b91",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
-              }
-            }
-          },
-          {
-            "id": "94240308dc9c29cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数据结构/笔记/文件系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3fcb0f71570a0968",
         "type": "tabs",
         "children": [
@@ -41,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
+                "file": "归档课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
               }
             }
           }
@@ -119,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
+                "file": "归档课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
+                "file": "归档课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
+                "file": "归档课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf"
               }
             }
           },
@@ -202,17 +174,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "81ed0e4cfffb8b91",
+  "active": "96e173acdf249e6c",
   "lastOpenFiles": [
-    "课程/数据结构/笔记/文件系统.md",
-    "课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
-    "课程/数据结构/课件/数组、串、广义表.pdf",
-    "课程/数据结构/笔记/搜索结构.md",
-    "课程/数据结构/笔记/排序.md",
-    "课程/数据结构/笔记/图.md",
-    "课程/数据结构/笔记/树.md",
-    "课程/数据结构/笔记/线性数据结构.md",
-    "课程/数据结构/数据结构.md",
+    "归档课程/数据结构/笔记/文件系统.md",
+    "归档课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
+    "归档课程/数据结构/课件/数组、串、广义表.pdf",
+    "归档课程/数据结构/笔记/搜索结构.md",
+    "归档课程/数据结构/笔记/排序.md",
+    "归档课程/数据结构/笔记/图.md",
+    "归档课程/数据结构/笔记/树.md",
+    "归档课程/数据结构/笔记/线性数据结构.md",
+    "归档课程/数据结构/数据结构.md",
     "课程/公司金融学/复习题2023.md",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/课件/第四章公司金融日常管理.pdf",
