@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "复习题2023",
-      "path": "课程/公司金融学/复习题2023.md"
+      "basename": "U1二进制编码",
+      "path": "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md"
+    },
+    {
+      "basename": "U4时序逻辑电路",
+      "path": "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md"
+    },
+    {
+      "basename": "U7 指令系统",
+      "path": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md"
+    },
+    {
+      "basename": "U6 运算",
+      "path": "课程/数字逻辑与计算机组成/笔记/U6 运算.md"
+    },
+    {
+      "basename": "U3组合逻辑电路",
+      "path": "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md"
+    },
+    {
+      "basename": "U2数字逻辑电路基础",
+      "path": "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md"
     },
     {
       "basename": "期末复习",
       "path": "课程/公司金融学/期末复习.md"
+    },
+    {
+      "basename": "复习题2023",
+      "path": "课程/公司金融学/复习题2023.md"
     },
     {
       "basename": "金融经济学",
@@ -175,30 +199,6 @@
     {
       "basename": "16 Spark简介",
       "path": "课程/大数据/课件/16 Spark简介.pdf"
-    },
-    {
-      "basename": "18 Spark Basic Programming (II)",
-      "path": "课程/大数据/课件/18 Spark Basic Programming (II).pdf"
-    },
-    {
-      "basename": "p8",
-      "path": "课程/大数据/作业/p8.md"
-    },
-    {
-      "basename": "Hive",
-      "path": "课程/大数据/笔记/Hive.md"
-    },
-    {
-      "basename": "15 Hive简介",
-      "path": "课程/大数据/课件/15 Hive简介.pdf"
-    },
-    {
-      "basename": "HBase",
-      "path": "课程/大数据/笔记/HBase.md"
-    },
-    {
-      "basename": "p3",
-      "path": "课程/大数据/实验/p3.md"
     }
   ],
   "omittedPaths": [],
