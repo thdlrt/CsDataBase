@@ -6,6 +6,7 @@
       {
         "id": "f58a912bdb861226",
         "type": "tabs",
+        "dimension": 32.46268656716418,
         "children": [
           {
             "id": "29b82f38ce965661",
@@ -16,47 +17,14 @@
                 "file": "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf"
               }
             }
-          },
-          {
-            "id": "80a416b346350580",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/课件/第1章 二进制编码 （1）.pdf"
-              }
-            }
           }
         ]
       },
       {
         "id": "19b35c9da23ace2a",
         "type": "tabs",
+        "dimension": 67.53731343283582,
         "children": [
-          {
-            "id": "2d631c17c56187af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a125ad184a3903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "0ae608ed26320cae",
             "type": "leaf",
@@ -64,6 +32,18 @@
               "type": "markdown",
               "state": {
                 "file": "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66e55af820c43e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -167,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md"
+                "file": "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md"
               }
             }
           },
@@ -250,15 +232,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2d631c17c56187af",
+  "active": "66e55af820c43e98",
   "lastOpenFiles": [
-    "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
-    "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
-    "课程/数字逻辑与计算机组成/课件/第1章 二进制编码 （1）.pdf",
+    "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
+    "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
+    "课程/数字逻辑与计算机组成/课件/第1章 二进制编码 （1）.pdf",
+    "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
     "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
     "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
-    "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
