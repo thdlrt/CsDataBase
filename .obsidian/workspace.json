@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3fcb0f71570a0968",
+        "id": "ddf6c309cad8da91",
         "type": "tabs",
         "children": [
           {
@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3fcb0f71570a0968",
+        "type": "tabs",
+        "children": [
           {
             "id": "fb850f11dad4fdfa",
             "type": "leaf",
@@ -170,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
