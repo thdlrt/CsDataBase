@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md"
+                "file": "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md"
               }
             }
           },
@@ -255,18 +255,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b236a6eab85f7472",
+  "active": "0ae608ed26320cae",
   "lastOpenFiles": [
+    "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+    "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
+    "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
+    "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
     "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
     "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
-    "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
-    "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
     "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
     "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
     "课程/数字逻辑与计算机组成/课件/第2章 数字逻辑基础（2）.pdf",
     "课程/数字逻辑与计算机组成/课件/第1章 二进制编码 （1）.pdf",
-    "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
     "课程/公司金融学/期末复习.md",
     "课程/公司金融学/复习题2023.md",
     "归档课程/金融经济学.md",
@@ -287,12 +288,10 @@
     "临时/公司金融学.md",
     "临时/temp.md",
     "算法/图论.md",
-    "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/大数据/作业/p10.md",
     "课程/大数据/笔记/Spark.md",
     "课程/大数据/期末复习.md",
     "课程/大数据/实验/p4.md",
-    "课程/大数据/作业/p9.md",
     "Pasted image 20231227111944.png",
     "未命名.canvas",
     "export/金融大数据p4/plugin/chalkboard/img/whiteboard.png",
