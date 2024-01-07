@@ -60,21 +60,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d503fde1fdf8fd85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md"
+                "file": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md"
               }
             }
           },
@@ -232,11 +219,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d503fde1fdf8fd85",
+  "active": "7ffef012e471f877",
   "lastOpenFiles": [
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
-    "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
+    "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
     "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
     "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
