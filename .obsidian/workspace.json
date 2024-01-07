@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/复习题2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/公司金融学/期末复习.md",
+                "file": "课程/公司金融学/复习题2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/公司金融学/期末复习.md"
+                "file": "课程/公司金融学/复习题2023.md"
               }
             }
           },
@@ -194,10 +194,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6ec0353e2085c8bd",
+  "active": "fb850f11dad4fdfa",
   "lastOpenFiles": [
-    "课程/公司金融学/复习题2023.md",
     "课程/公司金融学/期末复习.md",
+    "课程/公司金融学/复习题2023.md",
     "归档课程/金融经济学.md",
     "归档课程/数据结构/pdf/南京大学《数据结构》试卷(含答案).pdf",
     "归档课程/数据结构/笔记/文件系统.md",
