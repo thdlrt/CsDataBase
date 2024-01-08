@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "cb782708ffc45db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/公司金融学/期末复习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8ef56adcdd9f58c4",
             "type": "leaf",
             "state": {
@@ -61,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "d615b65a4ccf8a6a",
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
+                "file": "课程/公司金融学/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md"
+                "file": "课程/公司金融学/期末复习.md"
               }
             }
           },
@@ -219,13 +231,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7ffef012e471f877",
+  "active": "cb782708ffc45db2",
   "lastOpenFiles": [
+    "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
     "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
-    "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
     "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
     "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
