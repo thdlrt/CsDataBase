@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/作业/p1.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/作业/p1.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/作业/p1.md"
+                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md"
               }
             }
           },
@@ -280,17 +280,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c7a0ca7a37063c54",
+  "active": "8ef56adcdd9f58c4",
   "lastOpenFiles": [
+    "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+    "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
+    "课程/数字逻辑与计算机组成/作业/p1.md",
     "课程/数字逻辑与计算机组成/作业/p2.md",
     "课程/数字逻辑与计算机组成/作业/p3.md",
     "课程/数字逻辑与计算机组成/作业/p4.md",
     "课程/数字逻辑与计算机组成/作业/p8.md",
     "课程/数字逻辑与计算机组成/作业/p7.md",
     "课程/数字逻辑与计算机组成/作业/p5.md",
-    "课程/数字逻辑与计算机组成/作业/p1.md",
-    "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
-    "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
     "临时/temp.md",
     "课程/数字逻辑与计算机组成/数电样卷.pdf",
