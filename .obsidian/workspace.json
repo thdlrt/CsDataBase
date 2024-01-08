@@ -6,7 +6,7 @@
       {
         "id": "f58a912bdb861226",
         "type": "tabs",
-        "dimension": 32.46268656716418,
+        "dimension": 44.17721518987342,
         "children": [
           {
             "id": "29b82f38ce965661",
@@ -17,13 +17,97 @@
                 "file": "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf"
               }
             }
+          },
+          {
+            "id": "c7a0ca7a37063c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "133d4f980cc05d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87fb9da10c7ccc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b00fb663199a2d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2df6cdae187dfc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad2bb013381c0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7e1d9e3077f7408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/作业/p8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
         "id": "19b35c9da23ace2a",
         "type": "tabs",
-        "dimension": 67.53731343283582,
+        "dimension": 55.82278481012658,
         "children": [
           {
             "id": "7ffef012e471f877",
@@ -217,15 +301,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "96e173acdf249e6c",
+  "active": "7ffef012e471f877",
   "lastOpenFiles": [
-    "归档课程/公司金融学/期末复习.md",
     "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
+    "课程/数字逻辑与计算机组成/作业/p8.md",
+    "课程/数字逻辑与计算机组成/作业/p7.md",
+    "课程/数字逻辑与计算机组成/作业/p5.md",
+    "课程/数字逻辑与计算机组成/作业/p4.md",
+    "课程/数字逻辑与计算机组成/作业/p3.md",
+    "课程/数字逻辑与计算机组成/作业/p2.md",
+    "课程/数字逻辑与计算机组成/作业/p1.md",
     "课程/数字逻辑与计算机组成/笔记/U7 指令系统.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+    "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
+    "归档课程/公司金融学/期末复习.md",
     "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
     "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
-    "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
     "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
     "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
     "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
@@ -247,13 +338,6 @@
     "归档课程/公司金融学/课件/第九章 估值.pdf",
     "归档课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
     "归档课程/公司金融学/课件/7融资决策.pdf",
-    "临时/公司金融学.md",
-    "临时/temp.md",
-    "算法/图论.md",
-    "课程/大数据/作业/p10.md",
-    "课程/大数据/笔记/Spark.md",
-    "课程/大数据/期末复习.md",
-    "课程/大数据/实验/p4.md",
     "Pasted image 20231227111944.png",
     "未命名.canvas",
     "export/金融大数据p4/plugin/chalkboard/img/whiteboard.png",
