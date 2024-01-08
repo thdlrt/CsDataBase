@@ -9,26 +9,6 @@
         "dimension": 43.77038486627527,
         "children": [
           {
-            "id": "92faf0ce297066a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/作业答案/第四章作业答案.pdf"
-              }
-            }
-          },
-          {
-            "id": "5801f8aa698e5ff8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/作业答案/第六章作业答案.pdf"
-              }
-            }
-          },
-          {
             "id": "df332c88ab718b4c",
             "type": "leaf",
             "state": {
@@ -63,42 +43,6 @@
               "state": {
                 "file": "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6941f0e719ae28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b00fb663199a2d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/作业/p4.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2df6cdae187dfc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/作业/p5.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -202,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
+                "file": "课程/数字逻辑与计算机组成/作业/p7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
+                "file": "课程/数字逻辑与计算机组成/作业/p7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md"
+                "file": "课程/数字逻辑与计算机组成/作业/p7.md"
               }
             }
           },
@@ -285,16 +229,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e6941f0e719ae28f",
+  "active": "5ad2bb013381c0df",
   "lastOpenFiles": [
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
-    "课程/数字逻辑与计算机组成/作业答案/第四章作业答案.pdf",
-    "课程/数字逻辑与计算机组成/作业/p4.md",
+    "课程/数字逻辑与计算机组成/作业/p7.md",
     "课程/数字逻辑与计算机组成/作业/p5.md",
+    "课程/数字逻辑与计算机组成/作业/p4.md",
+    "课程/数字逻辑与计算机组成/作业答案/第四章作业答案.pdf",
+    "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
     "课程/数字逻辑与计算机组成/作业答案/第六章作业答案.pdf",
     "课程/数字逻辑与计算机组成/作业/p3.md",
-    "课程/数字逻辑与计算机组成/笔记/U3组合逻辑电路.md",
     "课程/数字逻辑与计算机组成/作业/p2.md",
     "课程/数字逻辑与计算机组成/课件/复习小结 20231229.pdf",
     "课程/数字逻辑与计算机组成/笔记/U2数字逻辑电路基础.md",
@@ -305,7 +250,6 @@
     "课程/数字逻辑与计算机组成/作业答案/第一章作业答案 - 2.pdf",
     "课程/数字逻辑与计算机组成/作业答案/第七章作业答案.pdf",
     "课程/数字逻辑与计算机组成/作业答案",
-    "课程/数字逻辑与计算机组成/作业/p7.md",
     "课程/数字逻辑与计算机组成/课件/第1章 二进制编码 （1）.pdf",
     "课程/数字逻辑与计算机组成/笔记/U1二进制编码.md",
     "课程/数字逻辑与计算机组成/作业/p1.md",
