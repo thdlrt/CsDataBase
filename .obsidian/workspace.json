@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#难点",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +177,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -280,7 +281,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "96e173acdf249e6c",
+  "active": "24063adb5be26e38",
   "lastOpenFiles": [
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
