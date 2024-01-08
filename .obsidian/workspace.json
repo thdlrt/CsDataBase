@@ -92,26 +92,13 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "19b35c9da23ace2a",
         "type": "tabs",
         "dimension": 55.82278481012658,
         "children": [
-          {
-            "id": "8ef56adcdd9f58c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "55c5ac76080603db",
             "type": "leaf",
@@ -199,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
+                "file": "课程/数字逻辑与计算机组成/作业/p1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
+                "file": "课程/数字逻辑与计算机组成/作业/p1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md"
+                "file": "课程/数字逻辑与计算机组成/作业/p1.md"
               }
             }
           },
@@ -264,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,11 +269,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8ef56adcdd9f58c4",
+  "active": "c7a0ca7a37063c54",
   "lastOpenFiles": [
-    "课程/数字逻辑与计算机组成/课件/第8章 CPU4-流水线-数据通路.pdf",
-    "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+    "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
+    "课程/数字逻辑与计算机组成/课件/第8章 CPU4-流水线-数据通路.pdf",
     "课程/数字逻辑与计算机组成/作业/p1.md",
     "课程/数字逻辑与计算机组成/作业/p2.md",
     "课程/数字逻辑与计算机组成/作业/p3.md",
