@@ -91,8 +91,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "79bc18cf24e00d7b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "课程/数字逻辑与计算机组成/课件/第8章 CPU4-流水线-数据通路.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "19b35c9da23ace2a",
@@ -177,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,10 +291,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "24063adb5be26e38",
+  "active": "8ef56adcdd9f58c4",
   "lastOpenFiles": [
-    "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
+    "课程/数字逻辑与计算机组成/课件/第8章 CPU4-流水线-数据通路.pdf",
     "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
+    "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
     "课程/数字逻辑与计算机组成/作业/p1.md",
     "课程/数字逻辑与计算机组成/作业/p2.md",
     "课程/数字逻辑与计算机组成/作业/p3.md",
@@ -317,7 +328,6 @@
     "归档课程/公司金融学/课件/第四章公司金融日常管理.pdf",
     "归档课程/公司金融学/课件/财务基础.pdf",
     "归档课程/公司金融学/课件/第九章 估值.pdf",
-    "归档课程/公司金融学/课件/第八章公司并购重组与价值评估.pdf",
     "Pasted image 20231227111944.png",
     "未命名.canvas",
     "export/金融大数据p4/plugin/chalkboard/img/whiteboard.png",
