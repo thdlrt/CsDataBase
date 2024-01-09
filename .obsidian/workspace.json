@@ -6,7 +6,7 @@
       {
         "id": "f58a912bdb861226",
         "type": "tabs",
-        "dimension": 22.098765432098766,
+        "dimension": 28.39506172839506,
         "children": [
           {
             "id": "e2195b7a92414d1d",
@@ -23,7 +23,7 @@
       {
         "id": "19b35c9da23ace2a",
         "type": "tabs",
-        "dimension": 77.90123456790124,
+        "dimension": 71.60493827160494,
         "children": [
           {
             "id": "55c5ac76080603db",
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
+                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/数电样卷.pdf",
+                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/数电样卷.pdf",
+                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/数字逻辑与计算机组成/数电样卷.pdf"
+                "file": "课程/数字逻辑与计算机组成/笔记/U6 运算.md"
               }
             }
           },
@@ -217,11 +217,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "45d25f59111483df",
+  "active": "cfb257473a6080d8",
   "lastOpenFiles": [
+    "课程/数字逻辑与计算机组成/数电样卷.pdf",
+    "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
     "课程/数字逻辑与计算机组成/笔记/U4时序逻辑电路.md",
     "课程/数字逻辑与计算机组成/数字逻辑与计算机组成.md",
-    "课程/数字逻辑与计算机组成/数电样卷.pdf",
     "课程/数字逻辑与计算机组成/作业/p8.md",
     "课程/数字逻辑与计算机组成/作业答案/第八章作业答案.pdf",
     "课程/数字逻辑与计算机组成/作业/p7.md",
@@ -245,7 +246,6 @@
     "课程/数字逻辑与计算机组成/笔记/U8 中央处理器.md",
     "临时/temp.md",
     "归档课程/公司金融学/期末复习.md",
-    "课程/数字逻辑与计算机组成/笔记/U6 运算.md",
     "归档课程/公司金融学/复习题2023.md",
     "归档课程/金融经济学.md",
     "归档课程/数据结构/笔记/文件系统.md",
